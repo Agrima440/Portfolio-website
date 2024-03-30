@@ -1,0 +1,94 @@
+Agrima Sharma
+Full Stack Developer
+Turn complex challenges into elegant solutions and bring projects to life!
+
+EDUCATION
+agrimasharma47@gmail.com
+
+9068437018
+
+06/2021 - Present,
+
+Nanauta, Saharanpur, India
+
+github.com/Agrima440
+
+SKILLS
+C
+
+Java
+
+Python
+
+Bachelor of Engineering in Computer Science
+Shobhit University , Gangoh
+8.88 cgpa
+
+12 th
+Radiant Public School Nanauta Saharanpur
+04/2020 - 04/2021,
+
+83%
+
+PERSONAL PROJECTS
+C++
+SQL
+
+Javascript
+
+EcoMart (05/2023 - 07/2023)
+EcoMart is an ecommerce site designed specially for e-shoppers. The site has many features such as easy
+navigation, secure payments and a user-friendly interface.The site allow registered user to create order. The
+bcrypt hashing function allows to secure the user password.
+Technology used are React MaterialUI for frontend and Express framework for backend and server is running
+on Node js and for data storage we use mongodb.
+
+MobileMall (01/2024 - Present)
+Mongodb
+
+React
+
+Express js
+
+Node js
+
+MobileMall is an ecommerce app designed specially for mobile e-shoppers. The app has many features such as
+easy navigation, secure payments and a user-friendly interface .The application combines the power of React
+and the eﬃciency of native mobile development to bring you a seamless shopping journey right at your
+ﬁngertips.
+Technology used are React Native for frontend and Express framework for backend and server is running on
+Node js and for data storage we use mongodb.
+
+iCoderHub (12/2023 - 12/2023)
+
+LANGUAGES
+
+Welcome to iCoderHub, your digital sanctuary for all things coding and development. Dive into a responsive
+web experience meticulously crafted with Bootstrap, ensuring a seamless journey whether you're on a
+desktop, tablet, or mobile device.
+
+Hindi
+Native or Bilingual Proﬁciency
+
+Portfolio website (03/2023 - 04/2023)
+Technology used are HTML, CSS & JAVASCRIPT
+
+English
+Professional Working Proﬁciency
+
+Increment And Decrement Number (03/2023 - 03/2023)
+Technology used are React js
+
+Other projects( Using HTML, CSS & JAVASCRIPT) (04/2023 - 05/2023)
+Calculator
+Analog & Digital Clock
+Creating Myntra Clone
+Light OnOﬀ
+
+Jarvis (09/2022 - 09/2022)
+Jarvis is a AI personal Voice assistant which can send emails without typing a single word, doing Wikipedia
+searches without opening web browsers, and performing many other daily tasks like playing music with the help
+of a single voice command .
+Technology used are python as base programming language and some modules of python .
+
+
